@@ -1,0 +1,17 @@
+Papers/
+Data/
+best_models/
+checkpoints/
+.neptune/
+lightning_logs/
+Data/outputs/baseline_results.tsv
+Data/outputs/clip_features.tsv
+Data/outputs/prism_baseline_results.tsv
+Data/outputs/random_transcripts.csv
+Data/outputs/rbp24_baseline_results.tsv
+Data/prisment/processed/
+Data/rbp24/processed/
+Data/refernce/conservation/arrays/
+Data/outputs/datasets
+**/__pycache__/
+
